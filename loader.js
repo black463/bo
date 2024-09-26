@@ -6,6 +6,6 @@
 
         loader.style.display = 'none';
         content.style.display = 'block';
-      }, 1000);
+      }, 2000);
     });
   
